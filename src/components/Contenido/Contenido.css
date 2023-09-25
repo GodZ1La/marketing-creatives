@@ -1,0 +1,76 @@
+.contenedor-formulario {
+  width: 100%;
+  max-width: 550px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: rgba(255, 255, 255, 0.7); 
+  border: 2px solid #833177;
+  border-radius: 8px;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.card-formulario {
+  background-color: rgba(255, 255, 255, 0.7); 
+  padding: 20px;
+  border-radius: 8px;
+}
+
+  .titulo-contenido {
+    font-size: 28px;
+    font-weight: bold;
+    color: rgb(33, 32, 32);
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  .instrucciones {
+    font-size: 16px;
+    color: #555;
+    margin-bottom: 20px;
+    text-align: left;
+  }
+  .text-mensaje{
+    padding: 10px;
+    font-size: 16px;
+  }
+  
+  .text-field {
+    width: 100%;
+    margin-bottom: 15px;
+    padding: 12px;
+    font-size: 16px;
+  }
+  .text-field + .text-field {
+    margin-top: 15px;
+  }
+  
+  .text-emojis {
+    font-size: 16px;
+    color: black;
+    margin-bottom: 10px;
+    text-align: right;
+    padding: 20px;
+  }
+  
+  .switch-emojis {
+    margin-bottom: 10px;
+  }
+  
+  .button-generar {
+    padding: 15px 30px;
+    border: none;
+    font-size: 18px;
+    cursor: pointer;
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+  }
+
+  .select {
+    width: 100%;
+    height: 50px;
+    margin-bottom: 15px;
+    padding: 12px;
+    font-size: 16px;
+  }
+  
